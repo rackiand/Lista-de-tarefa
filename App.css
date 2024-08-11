@@ -1,0 +1,19 @@
+.delete-button {
+  background-color: #fafafa; /* Cor vermelha para exclusão */
+  border: none; /* Remove a borda */
+  color: rgb(202, 1, 1);
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Estilo para o botão de mudar status */
+.update-status-button {
+  background-color: #ffffff; /* Verde forte */
+  color: rgb(40, 209, 97);
+  padding: 10px 20px;
+  border: none; /* Remove as bordas */
+  cursor: pointer;
+  border-radius: 4px;
+}
+
